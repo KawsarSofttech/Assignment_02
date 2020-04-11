@@ -1,0 +1,98 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: skyblue;
+}
+
+.container {
+    background-image: url(../photos/Phone01.jpg);
+    background-size: 100% auto;
+    width: 60%;
+    margin: auto;
+    border-radius: 200px;   
+}
+
+.phonebook-body .container {
+    margin-top: 150px;
+    background-color: #fff;
+    border: 1px solid #ACB1B4 ;
+}
+
+h1 {
+    margin-left: 350px;
+    padding: 40px 0px 10px 0px;
+    font-size: 24px;
+    clear: both;
+}
+
+.phonebok-body .login1 {
+    margin-left: 100px;
+}
+
+.login1 input {
+    display: block;
+    width: 200px;
+    height: 24px;
+    margin-left: 350px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    padding: 1px;
+    border: 1px solid #e6ecf0;
+    border-radius: 10px; 
+    background-color: skyblue;     
+}
+
+.phonebok-body .login2 {
+    margin-top: 30px;
+    margin-left: 130px;
+}
+
+.login2 input {
+    margin-left: 350px;
+    padding: 6px 16px;
+    border-radius: 100px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #1da1f2;
+    border: 1px solid #1da1f2;
+    cursor: pointer;
+}
+
+.login2 a {
+    font-size: 14px;
+    color: pink;
+    text-decoration: none;
+}
+
+.login3 {
+    margin-top: 15px;
+    padding-bottom: 30px;
+
+}
+.login3 p {
+    margin-left: 350px;
+    color: black;
+    font-size: 14px;
+}
+
+.login3 a {
+    font-size: 14px;
+    color: pink;
+    text-decoration: none;
+}
+.login2 a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+.login3 a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+
+}
